@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToOOPSpring18", "IntroToOOPSpring18\IntroToOOPSpring18.csproj", "{37593045-6CE8-41D5-AF5B-B7C406FAAC4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37593045-6CE8-41D5-AF5B-B7C406FAAC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37593045-6CE8-41D5-AF5B-B7C406FAAC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37593045-6CE8-41D5-AF5B-B7C406FAAC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37593045-6CE8-41D5-AF5B-B7C406FAAC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34C44821-E722-4AE9-8051-52A1CABE0637}
+	EndGlobalSection
+EndGlobal
